@@ -2,7 +2,7 @@
 
 Media preview for MindLane, a two-lane action game by Mesut Beysulen.
 
-- [Watch/download the 96-second gameplay demo](https://github.com/mesutbeysulen/mindlane-arcade-preview/releases/download/preview-2026-11-25/MindLane-Gameplay-Demo-Duo-Full.mp4)
+- [Watch/download the 96-second gameplay demo](https://github.com/mesutbeysulen/mindlane-arcade-preview/releases/download/preview-2026-11-25/MindLane-Duo-Complete-Preview.mp4)
 - [Read the screenshot PDF](https://github.com/mesutbeysulen/mindlane-arcade-preview/releases/download/preview-2026-11-25/MindLane-Screenshot-Preview.pdf)
 - [TestFlight preview](https://testflight.apple.com/join/6esPBNt4) (subject to beta availability)
 
