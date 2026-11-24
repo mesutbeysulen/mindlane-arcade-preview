@@ -2,7 +2,7 @@
 
 Media preview for MindLane, a two-lane action game by Mesut Beysulen.
 
-- [Watch/download the 72-second gameplay demo](https://github.com/mesutbeysulen/mindlane-arcade-preview/releases/download/preview-2026-11-25/MindLane-Gameplay-Demo-Duo.mp4)
+- [Watch/download the 96-second gameplay demo](https://github.com/mesutbeysulen/mindlane-arcade-preview/releases/download/preview-2026-11-25/MindLane-Gameplay-Demo-Duo-Full.mp4)
 - [Read the screenshot PDF](https://github.com/mesutbeysulen/mindlane-arcade-preview/releases/download/preview-2026-11-25/MindLane-Screenshot-Preview.pdf)
 - [TestFlight preview](https://testflight.apple.com/join/6esPBNt4) (subject to beta availability)
 
@@ -15,3 +15,5 @@ This repository distributes preview media only, not game source code. Apple Arca
 Music was generated locally for the game using ACE-Step 1.5. Project records include prompts, seeds and tool provenance. All media is provided for evaluation; no redistribution license is granted.
 
 Duo orientation update: portrait gameplay at 00:48–01:00, landscape gameplay at 01:00–01:12. Both were captured independently from the production renderer, with automated inputs. Separate portrait and landscape clips are included as release assets.
+
+Full Duo preview: 00:48 portrait side-by-side; 01:00 landscape side-by-side; 01:12 portrait face-to-face; 01:24 landscape face-to-face. Each segment lasts 12 seconds.
